@@ -1,0 +1,51 @@
+.btn1 {
+    padding: 10px 25px;
+    border-radius: 10px;
+    background-color: rgba(19, 174, 47, 0.607);
+    color: white;
+}
+
+.team-member {
+    width: 100%;
+    padding: 30px;
+    height: 100vh;
+    /* background-color: red; */
+}
+
+#card-one {
+    top: 130%;
+}
+
+#card-two {
+    top: 230%;
+}
+
+#card-three {
+    top: 250%;
+}
+
+#card-four {
+    top: 350%;
+}
+
+#card-five {
+    top: 450%;
+}
+
+.page2 {
+    background-image: url('./banner.webp');
+    background-size: cover;
+    background-position: center;
+}
+
+.right-context {
+    padding: 20px;
+    border-radius: 10px;
+    color: white;
+    transition: all 0.5ms;
+}
+
+.right-context:hover {
+    background-color: #0d1012;
+    transition: all 0.5ms;
+}
